@@ -1,0 +1,13 @@
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+C:\Users\Yazeed\Desktop\MEU\2024 - Summer Semester\Field Traning\Backend\Asp.net\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
